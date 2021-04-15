@@ -3,6 +3,7 @@
 Este proyecto tiene como proposito presentar una propuesta para el desarrollo de un buscador de productos para Mercado libre.
 Videos de funcionamiento: 
 https://github.com/felipequin/Test-React-MercadoLibre/blob/master/img/video/prueba1.mov
+https://github.com/felipequin/Test-React-MercadoLibre/blob/master/img/video/prueba2.mov
 ## Available Scripts
 Antes de iniciar recuerde contar node instalado en su equipo al igual que npm y clonar el proyecto.
 ### `npm install`
